@@ -12,3 +12,4 @@ matplotlib
 pillow
 python-multipart
 google-generativeai
+python-dotenv
